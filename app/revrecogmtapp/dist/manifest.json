@@ -24,6 +24,20 @@
                     "odataVersion": "4.0"
                 }
             }
+        },
+        "crossNavigation": {
+            "inbounds": {
+                "revrecogmtapp-display": {
+                    "semanticObject": "revrecogmtapp",
+                    "action": "display",
+                    "title": "{{flpTitle}}",
+                    "signature": {
+                        "parameters": {},
+                        "additionalParameters": "allowed"
+                    },
+                    "subTitle": "{{flpSubtitle}}"
+                }
+            }
         }
     },
     "sap.ui": {

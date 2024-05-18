@@ -34,7 +34,8 @@
           "signature": {
             "parameters": {},
             "additionalParameters": "allowed"
-          }
+          },
+          "subTitle": "{{flpSubtitle}}"
         }
       }
     }
